@@ -1,5 +1,2 @@
-txt_csv_diff
-
-ŠT—v
-txtƒtƒ@ƒCƒ‹‚Æcsvƒtƒ@ƒCƒ‹‚ð·•ª‚ðŒŸoƒXƒNƒŠƒvƒgB
+txtãƒ•ã‚¡ã‚¤ãƒ«ã¨csvãƒ•ã‚¡ã‚¤ãƒ«ã‚’å·®åˆ†ã‚’æ¤œå‡ºã‚¹ã‚¯ãƒªãƒ—ãƒˆã€‚
 
